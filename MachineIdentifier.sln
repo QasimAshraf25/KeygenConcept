@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGen", "KeyGen\KeyGen.csproj", "{CDA29883-5337-410A-B5BD-EAE6B1DCA048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activation", "Activation\Activation.csproj", "{4A6BB637-9CB5-4C5D-8ABA-E8BB08D32238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA29883-5337-410A-B5BD-EAE6B1DCA048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA29883-5337-410A-B5BD-EAE6B1DCA048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA29883-5337-410A-B5BD-EAE6B1DCA048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA29883-5337-410A-B5BD-EAE6B1DCA048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6BB637-9CB5-4C5D-8ABA-E8BB08D32238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6BB637-9CB5-4C5D-8ABA-E8BB08D32238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6BB637-9CB5-4C5D-8ABA-E8BB08D32238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6BB637-9CB5-4C5D-8ABA-E8BB08D32238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
